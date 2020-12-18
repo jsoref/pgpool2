@@ -1,0 +1,17 @@
+ignore$
+\.crt$
+\.data$
+\.euc_jp$
+\.gif$
+\.key$
+\.odp$
+\.patch$
+\.png$
+\.pptx$
+\.req$
+\.sample[^/]*$
+^config
+^doc.ja/
+^install-sh$
+^m4/
+^\.github/
